@@ -1,0 +1,2 @@
+<h1>Hey there! 👋</h1>
+<p>Software developer with 1+ year experience in JS/Node.js technology stack. I'm interested in challenging projects where I can develop my professional skills, as well as make friends with enthusiastic people in the IT field.</p>
