@@ -15,3 +15,11 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 </p>
+ 
+<h3>Social networks</h3>
+  <p>
+  <a href=""><li>Telegram</li></a>
+  <a href="https://www.linkedin.com/in/kylym-maratov-68abb5224/"><li>Linkedin</li></a>
+  <a href="https://www.instagram.com/k1mbk/"><li>Instagram</li></a>
+  </p>
+ 
