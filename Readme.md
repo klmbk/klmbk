@@ -18,7 +18,7 @@
  
 <h3>Social networks</h3>
 <p >
-  <a href="">Telegram</a>
+  <a href="https://t.me/klmbk">Telegram</a>
   <a href="https://www.linkedin.com/in/kylym-maratov-68abb5224/">Linkedin</a>
   <a href="https://www.instagram.com/k1mbk/">Instagram</a>
 </p>
