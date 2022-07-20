@@ -11,4 +11,5 @@
   <a href="https://twitter.com/klm6k">Twitter</a>
 </p>
 <h2>Achievements</h2>
+<img src="https://www.codewars.com/users/klmbk/badges/large"></img>
 [![Profile badge](https://www.codewars.com/users/klmbk/badges/large)](https://www.codewars.com/users/klmbk)
